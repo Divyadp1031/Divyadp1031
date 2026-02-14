@@ -1,4 +1,4 @@
-<img src="https://image2url.com/r2/default/images/1771053643713-bb59770a-3215-40da-b22d-60a76e6da9a3.png" width="100%" />
+<img src="banner.png" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Divya Priya</h1>
