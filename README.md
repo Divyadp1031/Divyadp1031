@@ -27,13 +27,16 @@
 - Python
 -java
 - JavaScript
+  
 **Frontend**
 - HTML
 - CSS
 - Bootstrap
+  
 **Backend**
 - Django
 - Flask
+  
 **Database**
 - MySQL
 
