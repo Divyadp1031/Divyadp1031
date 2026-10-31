@@ -151,7 +151,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyadp1031&theme=tokyo-night&hide_border=true&area=true&custom_title=Divya's%20Contribution%20Graph" alt="Activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/8b5cf6/Divyadp1031" alt="Divya's GitHub contribution chart" width="100%" />
 
 </div>
 
