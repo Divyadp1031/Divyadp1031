@@ -78,50 +78,6 @@ me.say_hi()
 | **AI & ML** | OCR, NLP, Hugging Face Transformers, LLMs, Generative AI |
 | **Tools** | Git, GitHub, REST APIs, CRUD, MySQL Workbench |
 
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚨 AI Incident Intelligence System</h3>
-      <p>Generative AI-powered system that classifies <b>4+ incident categories</b>, prioritizes them by urgency and generates support-ready summaries using LLMs, automating incident triage.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 Data Extraction & Verification System</h3>
-      <p>OCR + NLP system built with Django that extracts, verifies and translates text from images and documents into English in real time, with <b>80-85% accuracy</b>.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/OCR%2FNLP-8b5cf6?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 ACE-SkillSync Matching System</h3>
-      <p>Skill-based recruitment platform that filters <b>100+ student profiles</b> by skills, CGPA and job criteria, with <b>90% matching accuracy</b>.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-ec4899?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 CRM Platform (Internship)</h3>
-      <p>Contributed to a full-stack CRM at Cybomb Technologies: <b>6+ reusable React components</b>, dashboards, drag-and-drop interfaces and notification features.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 💼 Experience
 
