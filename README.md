@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Divya%20Priya%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Divya%20Priya%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Divya+Priya!;Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+Django+%7C+FastAPI;Building+AI-powered+web+apps+%F0%9F%A4%96;Smart+India+Hackathon+2024+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
