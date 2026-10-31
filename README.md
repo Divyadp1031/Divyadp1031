@@ -66,7 +66,6 @@ me.say_hi()
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,django,flask,fastapi,tailwind,mysql,mongodb,sqlite,firebase,aws,git,github,postman,vscode&perline=10" alt="Skill icons" />
 
 </div>
 
