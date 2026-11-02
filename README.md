@@ -92,8 +92,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Divyadp1031&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadp1031&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://raw.githubusercontent.com/Divyadp1031/Divyadp1031/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="https://raw.githubusercontent.com/Divyadp1031/Divyadp1031/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 
 <br/>
 
